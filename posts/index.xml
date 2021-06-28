@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - TinyFairyQueen</title>
+        <link>https://tinyfairyQueen.github.io/posts/</link>
+        <description>所有文章 | TinyFairyQueen</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 Jun 2021 19:37:19 &#43;0800</lastBuildDate><atom:link href="https://tinyfairyQueen.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Spring</title>
+    <link>https://tinyfairyQueen.github.io/spring/</link>
+    <pubDate>Mon, 28 Jun 2021 19:37:19 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://tinyfairyQueen.github.io/spring/</guid>
+    <description><![CDATA[111111111111111111111SpringSpringSpring11111111111]]></description>
+</item></channel>
+</rss>
