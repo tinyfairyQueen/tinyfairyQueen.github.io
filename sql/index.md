@@ -31,7 +31,7 @@
 
    - 输入ALTER USER 'root'@'localhost' IDENTIFIED BY '123456'; 修改密码
 
-     报错：![image-20210630202459860](sql.assets/image-20210630202459860.png)
+     报错：![](https://cdn.jsdelivr.net/gh/tinyfairyQueen/image/images/20210630210135.png)
 
    - flush privileges; 刷新权限
 
